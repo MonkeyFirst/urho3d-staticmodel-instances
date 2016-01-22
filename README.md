@@ -1,0 +1,1 @@
+# urho3d-staticmodel-instances
